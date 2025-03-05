@@ -6,7 +6,7 @@ function Mycard() {
 
   useEffect(()=>{
 
-    console.log("Mount")
+    console.log("shubham")
   },[
 
   ])
